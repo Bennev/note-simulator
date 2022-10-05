@@ -28,8 +28,9 @@ This is a solution to the [Notes App project on Scrimba](https://scrimba.com/lea
 
 ### Links
 
-- Live Site URL: [@Netlify](https://notes-app-bennev.netlify.app/)
 - Solution URL: [@GitHub](https://github.com/Bennev/note-simulator)
+- Live Site URL: [@Netlify](https://notes-app-bennev.netlify.app/)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/afa3204f-cf45-420f-8b5c-79035438e3e8/deploy-status)](https://app.netlify.com/sites/notes-app-bennev/deploys)
 
 ### Getting Started with Create React App
 
